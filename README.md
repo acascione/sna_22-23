@@ -3,20 +3,11 @@
 
 This is a template repository for the 2023 final project of the Social Network Analysis course at University of Pisa.
 
-## Instructions
-Upload the code/data in the dedicated folders (one for each part of the project).
+## Report Abstract
 
-For project details refer to the official assignment description.
+In this report, our goal is to comprehend and analyze a network of Spotify artists utilizing techniques from network science.
+The initial section of our research is dedicated to explaining the criteria underlying the extraction and graph-building process. This involves a thorough exploration of standard network science quantitative analysis methods, examining the network’s characterization, and comparing it to synthetically constructed graphs. Moving forward, we delve deeper into the study of the network’s properties. This includes a comparative analysis of different algorithms for solving a static community discovery task, as well as unsupervised and supervised link prediction tasks. 
 
-Discuss the result of all the analysis in a written report.
+In conclusion, we try to understand how album covers extracted from artists’ networks are related to internal communities inside the graph and consider if the knowledge extracted is sufficient to predict the artist’s main genre based on the associated album, given a simple machine learning model.
 
-- Specify group members and link to the GitHub repositories in the first page;
-- Focus on the analytical methodologies and obtained results;
-- Max 12 pages, double column (use the template in the **report** folder).
 
-The final version of the report (in .pdf format) must be uploaded on the group's GitHub repository and sent via email to the course instructors.
-
-## Report Discussion
-All groups that submit a project report are admitted to the oral discussion.
-
-Discussions will take place under appointment - not earlier than 3 days after the report submission.
